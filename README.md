@@ -54,3 +54,11 @@ spread across the industries.
 of creativity and innovation within the organization. So give the view about startups,
 medium firms and big firms.
 
+# Approach:
+
+1. Understanding the problem statements.
+2. Collecting the data and checking its various parameters like data types, variables, columns, descriptions, null, length etc.
+3. After EDA, applying Cleaning process to make the data ready for various operations.
+4. Visualizing as per the requirement of problem statements.
+5. Finding correlation and various trends among the variables.
+6. Technologies/Libraries used: python, pandas, matplotlib, re, numpy, nltk, jupyter-notebook
