@@ -1,13 +1,17 @@
 # job-description-analysis
+
 Its a job description analysis project. (Copy Rights reserved @C:2356433)
 
-Problem Statement:
+# Problem Statement:
+
 Analyzing a job dataset can provide valuable insights and benefits for both organizations and
 individuals.For individuals, analyzing job datasets can provide valuable information for career
 planning and decision-making. By understanding job market trends, skill requirements, and
 salary ranges, individuals can make informed choices about their career paths, skill
 development, and job search strategies. Taking this information, analyze the data and give the
 solutions to the below mentioned problems.
+
+# Columns:
 
 The columns explanation are as follows,
 1. Job Title: Title of the job posting
@@ -24,7 +28,8 @@ The columns explanation are as follows,
 12. Revenue: Total revenue of the company
 13. Competitors: Competitors of the company
 
-Problems to be answered:
+# Problems to be answered:
+
 1. Identify the top five industries with the highest number of job openings
 2. Analyze the distribution of job opportunities based on geographic regions
 3. Determine the min and max average salary range for different job positions across the
